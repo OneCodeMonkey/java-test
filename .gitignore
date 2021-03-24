@@ -1,5 +1,4 @@
 .idea
 leetcode/*.class
 leetcode/problems/*.class
-objects/*.class
-collections/*.class
+onjava/*/*.class
